@@ -20,9 +20,9 @@ Welcome to my GitHub corner! I'm Cami, a passionate frontend enthusiast with a l
 
 <font size="-1">
 
-🔭 Currently, I'm sculpting my portfolio, shaping it (or at least trying to) into something that's not the average SPA.
+🔭 Currently, I'm sculpting my portfolio and working on excercises to boost my problem solving skills.
 
-🖌️ Diving deeper into **UI/UX design** and **Docker**.
+🖌️ Diving deeper into **UI/UX design**.
 
 💬 Let's collaborate! Whether it's optimizing performance, refining UX/UI, or brainstorming innovative ideas, I'm all ears!
 
@@ -46,9 +46,7 @@ Welcome to my GitHub corner! I'm Cami, a passionate frontend enthusiast with a l
 
 <font size="-1">
 
-🌻 When I'm not perfecting pixels, you can find me exploring the great outdoors, playing the latest indie games, or reading a good book.
-
-🌟 **My mantra:** "Try it, if it fails it will be a good story to tell".
+🌻 When I'm not perfecting pixels, you can find me exploring the great outdoors or reading a good book.
 
 </font>
 <br/>
