@@ -1,4 +1,4 @@
-# **Hey there!** 👋👋
+# **Hey there!** 👋🌱
 
 Welcome to my GitHub corner! I'm Cami, a passionate frontend enthusiast with a love for turning ideas into reality through code.
 <br/>
@@ -10,7 +10,7 @@ Welcome to my GitHub corner! I'm Cami, a passionate frontend enthusiast with a l
 
 🎨 I love to code and solve puzzles as much as building good looking and intuitive interfaces. If it's code related please count me in!
 
-💻 Proficient in a variety of frontend technologies including **JavaScript**, **HTML**, **CSS**, and **ReactJS**; always eager to explore new tools and techniques.
+💻 Proficient in a variety of frontend technologies
 
 </font>
 <br/>
@@ -20,7 +20,7 @@ Welcome to my GitHub corner! I'm Cami, a passionate frontend enthusiast with a l
 
 <font size="-1">
 
-🔭 Currently, I'm sculpting my portfolio and working on excercises to boost my problem solving skills.
+🔭 Currently, I'm sculpting my portfolio and working on excercises to boost my problem solving skills and include backend related tasks.
 
 🖌️ Diving deeper into **UI/UX design**.
 
@@ -46,7 +46,7 @@ Welcome to my GitHub corner! I'm Cami, a passionate frontend enthusiast with a l
 
 <font size="-1">
 
-🌻 When I'm not perfecting pixels, you can find me exploring the great outdoors or reading a good book.
+🌻 When I'm not perfecting pixels, you can find me exploring the great outdoors, reading a good book, attempting a handstand or caring for my plants.
 
 </font>
 <br/>
